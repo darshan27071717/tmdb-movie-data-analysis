@@ -1,4 +1,5 @@
 🎬 TMDB 5000 Movies Data Analysis
+
 📘 Overview
 
 This project explores and analyzes data from 5000 movies obtained from The Movie Database (TMDB).
@@ -14,13 +15,18 @@ Examine trends in movie performance and audience ratings
 
 Visualize findings using matplotlib and seaborn
 
-🛠️ Tools & Libraries Used
-Tool	Purpose
-Python	Core programming language
-Pandas	Data manipulation and cleaning
-NumPy	Numerical operations
-Matplotlib / Seaborn	Data visualization
-Jupyter Notebook	Interactive coding and visualization environment
+🛠️ Tools & Libraries 
+
+Python programming language,
+
+Pandas for Data manipulation and cleaning,
+
+NumPy	for Numerical operations,
+
+Matplotlib / Seaborn	for Data visualization,
+
+Jupyter Notebook	Interactive coding and visualization environment.
+
 📂 Dataset
 
 File: tmdb_5000_movies.csv
